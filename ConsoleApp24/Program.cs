@@ -10,6 +10,7 @@ namespace ConsoleApp24
     {
         static void Main(string[] args)
         {
+            Console.Write("message");
         }
     }
 }
